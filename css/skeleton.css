@@ -428,3 +428,9 @@ there.
   margin-bottom: 1.2rem;
 }
 
+.signature {
+  position: fixed;
+  bottom: 5%;
+  right: 5%;
+  margin: 5px; 
+}
