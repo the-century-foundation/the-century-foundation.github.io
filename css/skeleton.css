@@ -432,9 +432,16 @@ a.source {
   text-decoration: none;
 }
 
-.signature {
+.br {
   position: fixed;
   bottom: 5%;
   right: 5%;
+  margin: 5px; 
+}
+
+.bl {
+  position: fixed;
+  bottom: 5%;
+  left: 5%;
   margin: 5px; 
 }
