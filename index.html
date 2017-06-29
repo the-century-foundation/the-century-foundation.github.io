@@ -76,7 +76,11 @@
   <script type="text/javascript">
     $(document).ready(function(){
       $('.rotator').slick({
-        autoplay: true
+        autoplay: true,
+        prevArrow: '',
+        nextArrow: '<div style="text-align:center;margin-top:5%;"><button type="button" class="submit">Next</button></div>',
+        fade: true,
+        cssEase: 'ease-in'
       });
     });
   </script>
