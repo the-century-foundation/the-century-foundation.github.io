@@ -447,6 +447,11 @@ a {
   max-width: 500px;
 }
 
+.container.share-section {
+  width: 200px;
+  margin: 1% auto;
+}
+
 .source {
   text-transform: uppercase;
   color: #892E1B;
@@ -469,8 +474,27 @@ body {
   height: auto;
 }
 
+
+
 @media (max-width: 420px) {
   .vertical { 
     display: none;
+  }
+
+  body {
+    background-position: center 400px;
+  }
+}
+
+@media (max-width: 376px) {
+  .container.share-section {
+    width: 230px;
+  }
+
+  .container button {
+    width: 100%;
+    height: 57px;
+    line-height: 21px;
+    white-space: normal;
   }
 }
