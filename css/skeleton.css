@@ -458,6 +458,15 @@ a {
   font-weight: 600;
 }
 
+.share-section .source {
+  float:left;
+  margin-right:4%;
+}
+
+.share-section div.ssk-group {
+  float:left;
+}
+
 .rotator p {
   font-weight: 600;
   margin-bottom: 0.5rem;
@@ -482,7 +491,7 @@ body {
   }
 
   body {
-    background-position: center 400px;
+    background-position: center 425px;
   }
 }
 
