@@ -134,5 +134,10 @@
         "fact": "TrumpCare Would Increase the Number of High-Income (>400 Percent of Poverty) Uninsured by 241 Percent in 2022 (Includes State Estimates)",
         "sourceName": "Urban Institute",
         "sourceUrl": "http://www.urban.org/sites/default/files/bcra_tables_3_through_5.pdf"
+    },
+    {
+        "fact": "By 2026, 1.45 Million Jobs Would Be Lost Due to TrumpCare",
+        "sourceName": "Commonwealth Fund",
+        "sourceUrl": "http://www.commonwealthfund.org/publications/issue-briefs/2017/jul/bcra-economic-employment-consequences-states"
     }
 ]}
